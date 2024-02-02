@@ -23,13 +23,13 @@ result
 <year>-<month>-<data>--<time>.log
 ...
 ```
-If no number of nodes is defined, 8 nodes were used.
-`copytasks.csv` only exists for our WOW approach (here this method is called la)
-Unsuccessful runs are marked with a failure and timestamp.
-`<year>-<month>-<data>--<time>.log` are the logs of our management script orchestrating the experiments.
+- If no number of nodes is defined, 8 nodes were used.
+- `copytasks.csv` only exists for our WOW approach (here this method is called la)
+- Unsuccessful runs are marked with a failure and timestamp.
+- `<year>-<month>-<data>--<time>.log` are the logs of our management script orchestrating the experiments.
 
 # Evaluation
 
-`evaluation.ipynb` Script to read the results and create plots and summary tables from the data.
-`evaluation` a folder with different tables
-`plots` plots visualizing the data
+- `evaluation.ipynb` Script to read the results and create plots and summary tables from the data.
+- `evaluation` a folder with different tables
+- `plots` visualizing the data
